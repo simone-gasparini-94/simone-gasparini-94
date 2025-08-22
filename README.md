@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Simone Gasparini
-- 🌱 I’m currently following The Odin Project curriculum and attending the 42 Berlin Piscine
+- 🌱 I’m currently attending the 42 Berlin School
 - 📫 How to reach me: simone.gasparini.2@gmail.com
 
 <!---
