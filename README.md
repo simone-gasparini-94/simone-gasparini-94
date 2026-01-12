@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Simone Gasparini
-- 🌱 I’m currently attending the 42 Berlin School
+- 🌱 I’m currently attending the 42 Berlin School and following the Odin Project curriculum for Full-Stack Web Development
 - 📫 How to reach me: simone.gasparini.2@gmail.com
 
 <!---
