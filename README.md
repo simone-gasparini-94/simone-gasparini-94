@@ -1,6 +1,4 @@
-- 👋 Hi, I’m Simone Gasparini
-- 🌱 I’m currently attending the 42 Berlin School and following the Odin Project curriculum for Full-Stack Web Development
-- 📫 How to reach me: simone.gasparini.2@gmail.com
+42 Berlin School Student | Full-Stack Web Development, The Odin Project
 
 <!---
 simone-gasparini-94/simone-gasparini-94 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
