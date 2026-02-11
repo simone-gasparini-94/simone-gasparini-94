@@ -8,7 +8,8 @@ Software Engineering Student @ [42 Berlin](https://42berlin.de)
 
 ## Interests:
 
-Currently having fun experimenting with JavaScript and Node.js to fetch and display data from public APIs.
+Currently having fun experimenting how to fetch and display data from public APIs.
+
 As a next step I would like to learn how to build a backend that processes and caches data.
 
 ## Skills:
