@@ -1,8 +1,8 @@
-# Simone Gasparini
+# I'm Simone
 
-Software Engineering Student @ [42 Berlin](https://42berlin.de)
+A Software Engineering Student at [42 Berlin](https://42berlin.de)
 
-## Project I'm most proud of:
+## The Project I'm most proud of:
 
 [Minishell](https://github.com/simone-gasparini-94/minishell): a custom shell built in C.
 
@@ -16,7 +16,7 @@ My first project on this topic is a [Weather App](https://github.com/simone-gasp
 
 As a next step, I would like to learn how to build a backend that processes and caches data.
 
-## My skills are:
+## My skillset is:
 
 [![My Skills](https://skillicons.dev/icons?i=c,js,docker)](https://skillicons.dev)
 
