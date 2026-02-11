@@ -1,4 +1,19 @@
-42 Berlin School Student | Full-Stack Web Development, The Odin Project
+# Simone Gasparini
+
+Software Engineering Student @ [42 Berlin](https://42berlin.de)
+
+## Project that I'm most proud of:
+
+[Minishell](https://github.com/simone-gasparini-94/minishell): Custom shell built as the first group project of the 42 Curriculum
+
+## Interests:
+
+Currently having fun experimenting with JavaScript and Node.js to fetch and display data from public APIs.
+As a next step I would like to learn how to build a backend that processes and caches data.
+
+## Skills:
+
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,js,docker)](https://skillicons.dev)
 
 <!---
 simone-gasparini-94/simone-gasparini-94 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
