@@ -10,7 +10,9 @@ Software Engineering Student @ [42 Berlin](https://42berlin.de)
 
 Currently having fun experimenting how to fetch and display data from public APIs.
 
-As a next step I would like to learn how to build a backend that processes and caches data.
+My first project on the subject is a [Weather App](https://github.com/simone-gasparini-94/weather-app).
+
+As a next step, I would like to learn how to build a backend that processes and caches data.
 
 ## Skills:
 
