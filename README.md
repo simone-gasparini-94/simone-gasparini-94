@@ -2,19 +2,21 @@
 
 Software Engineering Student @ [42 Berlin](https://42berlin.de)
 
-## Project that I'm most proud of:
+## Project I'm most proud of:
 
-[Minishell](https://github.com/simone-gasparini-94/minishell): Custom shell built in C as the first group project of the 42 Curriculum
+[Minishell](https://github.com/simone-gasparini-94/minishell): a custom shell built in C.
 
-## Interests:
+As the first group project of the 42 Curriculum, it taught me how to collaborate and work in a team on a technical project.
 
-Currently having fun experimenting how to fetch and display data from public APIs.
+## My interests are:
 
-My first project on the subject is a [Weather App](https://github.com/simone-gasparini-94/weather-app), which I'm currently working on.
+Right now I'm enjoying experimenting how to fetch and display data from public APIs.
+
+My first project on this topic is a [Weather App](https://github.com/simone-gasparini-94/weather-app), which I'm still working on.
 
 As a next step, I would like to learn how to build a backend that processes and caches data.
 
-## Skills:
+## My skills are:
 
 [![My Skills](https://skillicons.dev/icons?i=c,js,docker)](https://skillicons.dev)
 
