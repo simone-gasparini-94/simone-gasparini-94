@@ -1,6 +1,6 @@
-# I'm Simone
+# I'm Simone,
 
-A Software Engineering Student at [42 Berlin](https://42berlin.de)
+a Software Engineering Student at [42 Berlin](https://42berlin.de)
 
 ## Project I'm most proud of:
 
