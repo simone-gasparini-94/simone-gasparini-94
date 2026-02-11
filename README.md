@@ -4,7 +4,7 @@ Software Engineering Student @ [42 Berlin](https://42berlin.de)
 
 ## Project that I'm most proud of:
 
-[Minishell](https://github.com/simone-gasparini-94/minishell): Custom shell built as the first group project of the 42 Curriculum
+[Minishell](https://github.com/simone-gasparini-94/minishell): Custom shell built in C as the first group project of the 42 Curriculum
 
 ## Interests:
 
