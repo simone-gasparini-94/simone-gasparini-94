@@ -6,13 +6,13 @@ Software Engineering Student @ [42 Berlin](https://42berlin.de)
 
 [Minishell](https://github.com/simone-gasparini-94/minishell): a custom shell built in C.
 
-As the first group project of the 42 Curriculum, it taught me how to collaborate and work in a team on a technical project.
+It taught me how to collaborate and work in a team on a technical project.
 
 ## My interests are:
 
-Right now I'm enjoying experimenting how to fetch and display data from public APIs.
+I'm enjoying exploring how to fetch and display data from public APIs.
 
-My first project on this topic is a [Weather App](https://github.com/simone-gasparini-94/weather-app), which I'm still working on.
+My first project on this topic is a [Weather App](https://github.com/simone-gasparini-94/weather-app).
 
 As a next step, I would like to learn how to build a backend that processes and caches data.
 
