@@ -13,7 +13,7 @@ As a next step I would like to learn how to build a backend that processes and c
 
 ## Skills:
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,js,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,js,docker)](https://skillicons.dev)
 
 <!---
 simone-gasparini-94/simone-gasparini-94 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
