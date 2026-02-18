@@ -10,7 +10,7 @@ Besides making me more confident with C and systems programming, this project ta
 
 ## My interests are:
 
-I enjoying working with APIs. My [Weather App](https://github.com/simone-gasparini-94/weather-app) was my first project about fetching and displaying data.
+I'm enjoying working with APIs. My [Weather App](https://github.com/simone-gasparini-94/weather-app) was my first project about fetching and displaying data.
 
 Now, I'm excited to dive into backend development, learning how to process and cache data.
 
