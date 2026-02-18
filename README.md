@@ -6,7 +6,7 @@ a Software Engineering Student at [42 Berlin](https://42berlin.de)
 
 [Minishell](https://github.com/simone-gasparini-94/minishell): a custom shell built in C.
 
-Besides making me more confident with C and systems programming skills, this project taught me how to collaborate and work in a team on a technical project.
+Besides making me more confident with C and systems programming, this project taught me how to collaborate and work in a team on a technical project.
 
 ## My interests are:
 
